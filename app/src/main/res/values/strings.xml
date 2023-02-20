@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="day_of_week">Запланированный день:</string>
+    <string name="warning_fill_filleds">Одно из полей пустое</string>
+</resources>
